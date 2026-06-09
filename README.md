@@ -1,4 +1,3 @@
-
 # DeltaForce-OBS-Locker —— 电脑端和手机端均有
 
 > 💬 **技术交流邀请**  
@@ -26,7 +25,7 @@
      ```bash
      git clone https://github.com/你的用户名/DeltaForce-OBS-Locker.git
      ```  
-   - **方式三（仅手机端 APK）**：直接使用手机端 README 中的 Python 脚本下载 APK，或通过 Releases 获取。
+   - **方式三（仅手机端 APK）**：使用手机端 README 中的 Python 脚本下载 APK，或通过 Releases 获取。
 
 > 💡 **电脑端** 代码位于 `desktop/` 文件夹，**手机端** 脚本位于 `mobile/` 文件夹。下载后请根据对应子项目的 README 进行操作。
 
@@ -36,7 +35,7 @@
 
 以下 GIF 展示手机端 APK 的核心效果（画面吸附 / 模拟输入演示），**会自动循环播放**：
 
-![手机端功能演示](./Mobile/demo.gif)
+![手机端功能演示](./Mobile/demo_video.gif)
 
 ---
 

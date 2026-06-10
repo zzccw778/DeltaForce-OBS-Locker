@@ -38,7 +38,7 @@
 ## 📚 完整教程（必读）
 
 > **👉 [三角洲行动腾讯管家吸附原理 & 本项目 v3 版本介绍（CSDN）](https://blog.csdn.net/qq_63129682/article/details/161447283)**  
-> **👉 [手把手教你注册GitHub账号](https://blog.csdn.net/qq_63129682/article/details/161460238)**  
+> **👉 [手把手教你注册GitHub账号（CSDN）](https://blog.csdn.net/qq_63129682/article/details/161460238)**  
 
 **请务必先阅读以上两篇教程**，它们包含了本项目的原理讲解、环境配置、常见问题解决等核心内容。
 

@@ -119,7 +119,7 @@
 - **手机端**：提供 APK 文件及自动下载脚本，方便在 Android 设备上测试原理验证效果。
 
 👉 详细代码结构与本地运行说明请分别查看：
-- [电脑端 README（本地代码解析）](https://github.com/ace-trump-tech/DeltaForce-Desktop/blob/main/README.md)
+- [电脑端 README（本地代码解析）](https://github.com/ace-trump-tech/DeltaForce-Locker/blob/desktop/Readme.md)
 - [手机端 README（APK 下载）](https://github.com/ace-trump-tech/DeltaForce-Locker/blob/main/Mobile/README.md)
 
 ---

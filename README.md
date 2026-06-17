@@ -77,13 +77,6 @@
 **YOLOv14** 是专为 **非理想成像条件** 设计的实时目标检测框架[reference:10][reference:11]。与假设标准针孔相机的传统 YOLO 不同，YOLOv14 通过学习 **域不变、视角鲁棒** 的特征，在游戏角色检测上表现出色。
 
 传统的 YOLO 模型在处理游戏画面时，往往难以将游戏角色准确识别为“人”。YOLOv14 通过 **Game2Real 域适配** 技术，对齐游戏渲染域与真实摄影域的特征分布，使模型在《三角洲行动》、《使命召唤》、《绝地求生》等游戏中，能够稳定地将游戏角色识别为“人”，为画面吸附功能提供了可靠的检测基础。
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ace-trump-tech/DeltaForce-OBS-Locker/main/yolov14/pipeline.png" alt="YOLOv14 系统流程" width="90%">
-  <br>
-  <em>YOLOv14 系统流程图</em>
-</div>
-
 > 详细的技术架构、模型训练与推理指南，请参见本仓库的 [`yolov14/`](./yolov14) 目录。
 >
 
